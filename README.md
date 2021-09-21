@@ -14,4 +14,5 @@ To successfully run the main.py >>
 1. clone the repository into your system.
 2. set the path of the prototxt file, caffemodel file, points file and input a black and white Image through the path.
 3. caffemodel is a pretrained model that will convert the images.
-4. You'll find the required files in the repository.
+4. You'll find the required files.
+    here: https://drive.google.com/drive/folders/1pBozIgQdcGnRI0hBxlMaYLhS1FKbwi3Q?usp=sharing
